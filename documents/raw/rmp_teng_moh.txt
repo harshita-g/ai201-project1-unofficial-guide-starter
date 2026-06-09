@@ -1,0 +1,27 @@
+Source: Rate My Professors
+Professor: Teng Moh
+School: San Jose State University
+Department: Computer Science
+Source URL: https://www.ratemyprofessors.com/professor/660443
+Date collected: 2026-06-09
+
+Document description:
+Student reviews about Teng Moh's Computer Science courses at San Jose State University. These reviews discuss teaching style, workload, exams, grading, assignments, helpfulness, and whether students recommend the professor.
+
+Content:
+
+Review 1:
+Course: CS190
+Rating: 1
+Difficulty: 5
+Tags: [copy tags if shown, otherwise None]
+Review text:
+Unclear grading criteria. He doesn't respond to emails regarding questions about the class. Doesn't care about you.
+
+Review 2:
+Course: CS190
+Rating: 1
+Difficulty: 2
+Tags: [copy tags if shown, otherwise None]
+Review text:
+The rudest professor at SJSU. Does not care about the students; does not respond to emails. Unethical and unprofessional behaviors. Unfortunately, he has a monopoly for CS 190 class.

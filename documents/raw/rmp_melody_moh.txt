@@ -1,0 +1,27 @@
+Source: Rate My Professors
+Professor: Melody Moh
+School: San Jose State University
+Department: Computer Science
+Source URL: https://www.ratemyprofessors.com/professor/355668
+Date collected: 2026-06-09
+
+Document description:
+Student reviews about Melody Moh's Computer Science courses at San Jose State University. These reviews discuss teaching style, workload, exams, grading, assignments, helpfulness, and whether students recommend the professor.
+
+Content:
+
+Review 1:
+Course: CS258
+Rating: 4
+Difficulty: 2
+Tags: [copy tags if shown, otherwise None]
+Review text:
+Interesting class and team project is really helpful to learn class subject.
+
+Review 2:
+Course: CS258
+Rating: 1
+Difficulty: 2
+Tags: [copy tags if shown, otherwise None]
+Review text:
+Put the computer science department down at SJSU. Very apathetic. Don't take her class. Don't explain well. We need a different department chair.

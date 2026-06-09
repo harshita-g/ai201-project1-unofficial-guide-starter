@@ -1,0 +1,27 @@
+Source: Rate My Professors
+Professor: Leonard Wesley
+School: San Jose State University
+Department: Computer Science
+Source URL: https://www.ratemyprofessors.com/professor/101041
+Date collected: 2026-06-09
+
+Document description:
+Student reviews about Leonard Wesley's Computer Science courses at San Jose State University. These reviews discuss teaching style, workload, exams, grading, assignments, helpfulness, and whether students recommend the professor.
+
+Content:
+
+Review 1:
+Course: CS223
+Rating: 1
+Difficulty: 5
+Tags: [copy tags if shown, otherwise None]
+Review text:
+During class: Gives good lectures; responds in class very well. Outside class: Uses websites that update their content, while he does not update his step by step instruction, resulting in major confusion and incomplete assignments. Overall: click bait assignments; tolerates academic dishonesty; slow to respond. FYI: Choose other degree OR school!..
+
+Review 2:
+Course: CS223
+Rating: 5
+Difficulty: 3
+Tags: [copy tags if shown, otherwise None]
+Review text:
+Professor for CS123A, not CS223 for me, assignment instructions are moderately disorganized but asking him to make confirm the instructions was very chill and the overall difficulty of the assignments weren't hard (medium/east level). Interesting class & subject, midterms & finals are open book. Assignments correlate with exams (really similar).

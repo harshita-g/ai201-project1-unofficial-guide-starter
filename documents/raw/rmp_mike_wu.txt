@@ -1,0 +1,26 @@
+Source: Rate My Professors
+Professor: Mike Wu
+School: San Jose State University
+Department: Computer Science
+Source URL: https://www.ratemyprofessors.com/professor/2285136
+Date collected: 2026-06-09
+
+Document description:
+Student reviews about Mike Wu's Computer Science courses at San Jose State University. These reviews discuss teaching style, workload, exams, grading, assignments, helpfulness, and whether students recommend the professor.
+
+Content:
+
+Review 1:
+Course: CS157A
+Rating: 4
+Difficulty: 3
+Tags: [copy tags if shown, otherwise None]
+Review text:
+Honestly, he is one of the better professors in the CS dept at SJSU.Clear grading criteria, very responsive to emails, and very helpful if you ask questions. Also has a sense of humor that makes class much more enjoyable. The class itself is difficult, so be ready to study! Pop quiz HEAVY so be ready to attend every class.
+Review 2:
+Course: CS157A
+Rating: 5
+Difficulty: 3
+Tags: [copy tags if shown, otherwise None]
+Review text:
+Dr. Wu was knowledgeable, funny, responsive, clear about his expectations, and caring for students. I took him for Summer, there was a lot of work but he understood our difficulties and made reasonable adjustments. He cared a lot about engagement and attendance, with multiple pop quizzes. Make sure you pay attention to the topics he emphasizes.

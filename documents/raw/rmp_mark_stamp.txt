@@ -1,0 +1,26 @@
+Source: Rate My Professors
+Professor: Mark Stamp
+School: San Jose State University
+Department: Computer Science
+Source URL: https://www.ratemyprofessors.com/professor/281383
+Date collected: 2026-06-09
+
+Document description:
+Student reviews about Mark Stamp's Computer Science courses at San Jose State University. These reviews discuss teaching style, workload, exams, grading, assignments, helpfulness, and whether students recommend the professor.
+
+Content:
+
+Review 1:
+Course: CS166
+Rating: 5
+Difficulty: 3
+Tags: [copy tags if shown, otherwise None]
+Review text:
+the professor is very educated in the field of security and machine learning, he has a high index and his cs 166 course is very useful and gives a fundmental understanding of infromation security , homeworks are very useful, over all this one of the few classes at sjsu cs department that are actually worth the money we are paying for
+Review 2:
+Course: CS166
+Rating: 3
+Difficulty: 4
+Tags: [copy tags if shown, otherwise None]
+Review text:
+for whatever reason bro chose to not have an office and canvas, assignment submission is weired and no canvas or lecture slides available and office hours are held on the campus grass, he complicates everything for literally no reason

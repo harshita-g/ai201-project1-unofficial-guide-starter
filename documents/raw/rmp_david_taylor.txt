@@ -1,0 +1,27 @@
+Source: Rate My Professors
+Professor: David Taylor
+School: San Jose State University
+Department: Computer Science
+Source URL: https://www.ratemyprofessors.com/professor/214947
+Date collected: 2026-06-09
+
+Document description:
+Student reviews about David Taylor's Computer Science courses at San Jose State University. These reviews discuss teaching style, workload, exams, grading, assignments, helpfulness, and whether students recommend the professor.
+
+Content:
+
+Review 1:
+Course: CS146
+Rating: 4
+Difficulty: 4
+Tags: [copy tags if shown, otherwise None]
+Review text:
+Look, I don't think Taylor is the greatest professor, but I don't think he deserves as bad of a reputation. He genuinely cares about his students and the curve is very generous. However, there is certainly not enough incentive to attend the lectures and he admitted himself the course is outdated, you're probably better off leetcoding
+
+Review 2:
+Course: CS146
+Rating: 1
+Difficulty: 5
+Tags: [copy tags if shown, otherwise None]
+Review text:
+It is close to impossible to do well on his tests, and most students fail. Do not tell yourself, "I'll be fine, I'll study alone." I did, and here I am. Do not take him if there are options, anyone else.

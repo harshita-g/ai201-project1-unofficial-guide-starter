@@ -1,0 +1,27 @@
+Source: Rate My Professors
+Professor: Katerina Potika
+School: San Jose State University
+Department: Computer Science
+Source URL: https://www.ratemyprofessors.com/professor/2099184
+Date collected: 2026-06-09
+
+Document description:
+Student reviews about Katerina Potika's Computer Science courses at San Jose State University. These reviews discuss teaching style, workload, exams, grading, assignments, helpfulness, and whether students recommend the professor.
+
+Content:
+
+Review 1:
+Course: CS176
+Rating: 5
+Difficulty: 3
+Tags: [copy tags if shown, otherwise None]
+Review text:
+Potika is one of the few professor I would like to sit down and have a coffee with. She's very passionate about Social Networks and her passion can be felt. She can crack a few good jokes as well. My only criticism would be her power points are not very thorough.
+
+Review 2:
+Course: CS176
+Rating: 2
+Difficulty: 4
+Tags: [copy tags if shown, otherwise None]
+Review text:
+Really lecture focused, takes participation with pollev and class is kind of boring. Homework assignments that are confusing/already coded for you? Not a huge fan of her but the class is doable, only recommend if you have a heavy interest. She's a nice enough person, just not a great teacher imo.
