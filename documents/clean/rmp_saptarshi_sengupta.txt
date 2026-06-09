@@ -4,12 +4,9 @@ School: San Jose State University
 Department: Computer Science
 Source URL: https://www.ratemyprofessors.com/professor/2834186
 Date collected: 2026-06-09
-
 Document description:
 Student reviews about Saptarshi Sengupta's Computer Science courses at San Jose State University. These reviews discuss teaching style, workload, exams, grading, assignments, helpfulness, and whether students recommend the professor.
-
 Content:
-
 Review 1:
 Course: CS152
 Rating: 5
@@ -17,7 +14,6 @@ Difficulty: 1
 Tags: None
 Review text:
 Very kind and understanding professor. Excellent orator and easy homework and tests (average was 90) Your main grade is the semester project where you can work in a group and pick a language of your choice to make anything you want, use this as a reason to get something on your empty github portfolio and motivation to finish your personal project.
-
 Review 2:
 Course: CS152
 Rating: 5

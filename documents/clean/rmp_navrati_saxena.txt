@@ -4,12 +4,9 @@ School: San Jose State University
 Department: Computer Science
 Source URL: https://www.ratemyprofessors.com/professor/2626481
 Date collected: 2026-06-09
-
 Document description:
 Student reviews about Navrati Saxena's Computer Science courses at San Jose State University. These reviews discuss teaching style, workload, exams, grading, assignments, helpfulness, and whether students recommend the professor.
-
 Content:
-
 Review 1:
 Course: CS146
 Rating: 5
@@ -17,7 +14,6 @@ Difficulty: 2
 Tags: None
 Review text:
 Prof Saxena is one of the sweetest, most caring professors I've had. She genuinely cares about her students, and is quite funny. The classes are fun to attend, and she teaches really well. The exams are manageable, especially if you study the content and attend the SI sessions. Would highly recommend taking her class
-
 Review 2:
 Course: CS146
 Rating: 4

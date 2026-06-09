@@ -4,12 +4,9 @@ School: San Jose State University
 Department: Computer Science
 Source URL: https://www.ratemyprofessors.com/professor/214943
 Date collected: 2026-06-09
-
 Document description:
 Student reviews about Chris Pollett's Computer Science courses at San Jose State University. These reviews discuss teaching style, workload, exams, grading, assignments, helpfulness, and whether students recommend the professor.
-
 Content:
-
 Review 1:
 Course: CS174
 Rating: 3
@@ -17,7 +14,6 @@ Difficulty: 4
 Tags: None
 Review text:
 His slides are helpful since it shows code examples but has a lot of information. His HW are challenging but you can work in a group for them. HW build on top of each other so keep up with the material. I recommend going to his office hours for help. For his exams, study his practice exams from his previous semesters. Overall, an okay professor.
-
 Review 2:
 Course: CS174
 Rating: 2

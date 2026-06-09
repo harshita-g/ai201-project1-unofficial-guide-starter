@@ -4,12 +4,9 @@ School: San Jose State University
 Department: Computer Science
 Source URL: https://www.ratemyprofessors.com/professor/281383
 Date collected: 2026-06-09
-
 Document description:
 Student reviews about Mark Stamp's Computer Science courses at San Jose State University. These reviews discuss teaching style, workload, exams, grading, assignments, helpfulness, and whether students recommend the professor.
-
 Content:
-
 Review 1:
 Course: CS166
 Rating: 5
