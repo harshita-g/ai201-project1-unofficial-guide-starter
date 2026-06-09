@@ -102,6 +102,56 @@
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
 
+
+## Retrieval Test Results
+
+### Retrieval Test 1
+
+**Query:**
+What do students say about Katerina Potika's teaching style?
+
+**Top returned chunks:**
+
+1. Source: `rmp_katerina_potika.txt`, chunk 1, distance: 0.627
+2. Source: `rmp_katerina_potika.txt`, chunk 0, distance: 0.677
+
+**Why the chunks are relevant:**
+The top two chunks are both from Katerina Potika's review document. They directly mention her teaching style, including that the class is lecture-focused, sometimes boring, that she is passionate about Social Networks, and that her PowerPoints may not be very thorough.
+
+**Retrieval judgment:**
+Relevant for the top two chunks. The lower-ranked chunks were less useful because they came from other professors.
+
+### Retrieval Test 2
+
+**Query:**  
+What do students say about Navrati Saxena's exams?
+
+**Top returned chunks:**  
+1. Source: `rmp_navrati_saxena.txt`, chunk 0, distance: 0.620  
+2. Source: `rmp_navrati_saxena.txt`, chunk 1, distance: 0.763  
+3. Source: `rmp_katerina_potika.txt`, chunk 1, distance: 1.145  
+
+**Why the chunks are relevant:**  
+The top returned chunk is directly relevant because it is from Navrati Saxena's review file and specifically says that her exams are manageable, especially if students study the content and attend SI sessions. The second chunk is partially relevant because it is also from Navrati Saxena's file and mentions that SI sessions helped, but it does not directly discuss exams. The third chunk is not relevant because it is about Katerina Potika, not Navrati Saxena.
+
+**Retrieval judgment:**  
+Partially relevant. The most important chunk was ranked first and directly answered the question, but one unrelated chunk appeared in the top 3.
+
+### Retrieval Test 3
+
+**Query:**  
+Which professor does not respond to emails?
+
+**Top returned chunks:**  
+1. Source: `rmp_teng_moh.txt`, chunk 1, distance: 1.041  
+2. Source: `rmp_teng_moh.txt`, chunk 0, distance: 1.201  
+3. Source: `rmp_mike_wu.txt`, chunk 0, distance: 1.215  
+
+**Why the chunks are relevant:**  
+The top two chunks are relevant because both are from Teng Moh's review document and both specifically mention that he does not respond to emails. The third chunk is partially related to the email topic, but it is about Mike Wu being responsive to emails, so it does not answer the question directly.
+
+**Retrieval judgment:**  
+Relevant for the top two chunks. The retrieval system correctly ranked the Teng Moh reviews first, but the third chunk shows that semantic search also retrieved an opposite example because it contained similar email-related wording.
 ---
 
 ## Failure Case Analysis
